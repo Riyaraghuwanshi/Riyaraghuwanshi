@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m an IT student (B.Tech IT) who loves building, learning, and growing in tech.<br>💻 I enjoy working with C/C++, Java, JavaScript, and Front-End Development.<br>🎨 I’m passionate about creating clean, interactive UIs using React.js & Tailwind CSS.
+IT’27 Undergraduate | Unstop Campus Ambassador (2025–26) | MANIT Hackathon Finalist | SIH 2024 Participant | Skilled in C/C++, Java | Front-End Developer | DSA 
 
 
 ## 🌐 Socials:
