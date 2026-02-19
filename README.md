@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:  Hi I'm Riya
 IT’27 Undergraduate | Unstop Campus Ambassador (2025–26) | MANIT Hackathon Finalist | SIH 2024 Participant | Skilled in C/C++, Java | Front-End Developer | DSA 
 
 
